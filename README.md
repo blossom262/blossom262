@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @blossom262
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-blossom262/blossom262 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+### 自我介绍
+* 姓名：唐振凯
+* 学院：计算机学院
+* 专业班级：网络工程19(3)班
+* 兴趣爱好：打球、看小说
